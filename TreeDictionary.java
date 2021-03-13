@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
  * and creating a node for each child which thereafter creates multiple children depending on the how
  * long the numeric signature is and how many words it contains.
  *
- * @author Ibrahim Alzilitni
+
  * @version 2020-02-14
  */
 public class TreeDictionary implements Dictionary {
